@@ -15,6 +15,6 @@ terraform {
 }
 
 provider "google" {
-  project = "cluster-iac-tfstate"
+  project = "cluster-iac-dev"
   region  = var.region
 }
