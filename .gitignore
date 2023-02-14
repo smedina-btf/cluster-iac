@@ -1,0 +1,5 @@
+.tf
+terraform/.terraform.lock.hcl
+.terraform/
+.idea/
+tfplan
